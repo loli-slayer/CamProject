@@ -185,6 +185,8 @@ public class Max {
         }
         System.out.println("Room is lighted " + r.perLighter() + "%");
     }
+
+    
     public void CameraUnlimited(){
         System.out.println("Detecting... Please wait some minutes !!");
         clear();
